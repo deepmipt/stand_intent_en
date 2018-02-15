@@ -1,0 +1,12 @@
+numpy
+nltk
+keras
+tensorflow
+gensim
+pandas
+sklearn
+h5py
+tqdm
+flask==0.12.2
+flasgger==0.8.1
+flask-cors==3.0.3
